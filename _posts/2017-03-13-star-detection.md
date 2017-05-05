@@ -10,8 +10,8 @@ comments: false
 ---
 # star-detection
 
-![](https://github.com/Aniket965/star-detection/blob/master/star_hubble.jpg)
+![](https://github.com/Aniket965/star-detection/blob/master/star_hubble.jpg?raw=true)
 
 # after proccessing
 
-![](https://github.com/Aniket965/star-detection/blob/master/detected.jpg)
+![](https://github.com/Aniket965/star-detection/blob/master/detected.jpg?raw=true)
