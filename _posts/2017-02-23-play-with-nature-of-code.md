@@ -5,7 +5,6 @@ date:   2017-02-23
 excerpt: ""
 project: true
 tag:
-- project
 comments: false
 ---
 # play-with-nature-of-code

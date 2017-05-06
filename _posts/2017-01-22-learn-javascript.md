@@ -5,7 +5,6 @@ date:   2017-01-22
 excerpt: "learning Resources list for javascricpt"
 project: true
 tag:
-- project
 comments: false
 ---
 # Learn-javascript

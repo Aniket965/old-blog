@@ -5,7 +5,6 @@ date:   2016-11-29
 excerpt: "clash learn website for bases that matters   https://aniket965.github.io/clashLearn/"
 project: true
 tag:
-- project
 comments: false
 ---
 # Clash learn

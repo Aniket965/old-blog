@@ -5,7 +5,6 @@ date:   2016-10-08
 excerpt: "test for sake of learning"
 project: true
 tag:
-- project
 comments: false
 ---
 # github1test

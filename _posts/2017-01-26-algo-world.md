@@ -5,7 +5,14 @@ date:   2017-01-26
 excerpt: "collections of algorithms in Node"
 project: true
 tag:
-- project
+- library
+- algo
+- algorithm
+- node
+- javascript
+- library-free
+- algorithm-library
+- npm
 comments: false
 ---
 # algo-world

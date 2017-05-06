@@ -5,7 +5,6 @@ date:   2017-01-24
 excerpt: ""
 project: true
 tag:
-- project
 comments: false
 ---
 # learn-android-animations

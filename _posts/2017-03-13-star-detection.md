@@ -5,7 +5,7 @@ date:   2017-03-13
 excerpt: "python script for detecting stars in a space image"
 project: true
 tag:
-- project
+- stars
 comments: false
 ---
 <center><b>star-detection</b></center>
